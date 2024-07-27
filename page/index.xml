@@ -2,20 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Steven的隨手筆記</title>
-        <link>https://stevene0708.github.io/page/</link>
+        <link>http://localhost:1313/page/</link>
         <description>Recent content in Pages on Steven的隨手筆記</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://stevene0708.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://stevene0708.github.io/about/</link>
+        <link>http://localhost:1313/about/</link>
         <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://stevene0708.github.io/about/</guid>
+        <guid>http://localhost:1313/about/</guid>
         <description>&lt;p&gt;Hi All&lt;/p&gt;
 &lt;p&gt;我是Steven&lt;/p&gt;
-&lt;p&gt;畢業於中興大學資訊科學與工程學系&lt;br&gt;
-原本是韌體工程師，現在變類似FAE的角色&lt;/p&gt;
+&lt;p&gt;畢業於中興大學資訊科學與工程學系&lt;/p&gt;
 &lt;p&gt;喜歡打打遊戲的宅宅&lt;/p&gt;
 &lt;p&gt;Github (Side project):&lt;br&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://github.com/stevene0708&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
